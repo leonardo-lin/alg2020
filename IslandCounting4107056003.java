@@ -1,4 +1,3 @@
-package trytry;
 
 
 public class IslandCounting4107056003 extends IslandCounting{
